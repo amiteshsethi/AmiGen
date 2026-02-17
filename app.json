@@ -38,6 +38,15 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow AmiGen to access your photos to save generated images.",
+          "savePhotosPermission": "Allow AmiGen to save generated images to your gallery.",
+          "videosPermission": "Allow AmiGen to access your videos.",
+          "audioPermission": "Allow AmiGen to access your audio."
+        }
       ]
     ],
     "experiments": {
